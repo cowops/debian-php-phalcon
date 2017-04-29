@@ -23,7 +23,7 @@ Example Playbook
 
     - hosts: servers
       roles:
-         - { role: loranger.debian-php-phalcon }
+         - { role: cowops.debian-php-phalcon }
 
 Tasks
 -----
